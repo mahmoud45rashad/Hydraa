@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hydraa/static/css/main.cf464b90.css",
-    "main.js": "/Hydraa/static/js/main.f6e81513.js",
+    "main.js": "/Hydraa/static/js/main.2aeca411.js",
     "static/js/453.f01195fd.chunk.js": "/Hydraa/static/js/453.f01195fd.chunk.js",
     "static/media/1 (4).png": "/Hydraa/static/media/1 (4).6225ffe5d479cd57ee57.png",
     "static/media/footer-bg.png": "/Hydraa/static/media/footer-bg.530568c572d2ccb8dc6e.png",
@@ -16,11 +16,11 @@
     "static/media/download (1).svg": "/Hydraa/static/media/download (1).dafd612e6cc47ceb181b.svg",
     "static/media/download.svg": "/Hydraa/static/media/download.12b105e174386c170ad8.svg",
     "main.cf464b90.css.map": "/Hydraa/static/css/main.cf464b90.css.map",
-    "main.f6e81513.js.map": "/Hydraa/static/js/main.f6e81513.js.map",
+    "main.2aeca411.js.map": "/Hydraa/static/js/main.2aeca411.js.map",
     "453.f01195fd.chunk.js.map": "/Hydraa/static/js/453.f01195fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf464b90.css",
-    "static/js/main.f6e81513.js"
+    "static/js/main.2aeca411.js"
   ]
 }
